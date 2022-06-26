@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lars Santura
 #### Creative React front-end web developer
-![Creative React front-end web developer](https://cdn.discordapp.com/attachments/905770906645823500/973206947937538130/personal_card_3_small.png)
+![Creative React front-end web developer](https://cdn.discordapp.com/attachments/905770906645823500/990734931187597322/thumb.PNG)
 
 
 Getting into 3d web development using **Threejs**, React-three/fiber and React-three/drei
